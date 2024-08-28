@@ -16,7 +16,8 @@ document.querySelector('#app').innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click on the Vite logo to learn more
+      * primer cambio para rama staging
+      * rama de prueba
     </p>
   </div>
 `
