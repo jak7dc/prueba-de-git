@@ -17,6 +17,7 @@ document.querySelector('#app').innerHTML = `
     </div>
     <p class="read-the-docs">
       * primer cambio para rama staging
+      * rama de prueba
     </p>
   </div>
 `
