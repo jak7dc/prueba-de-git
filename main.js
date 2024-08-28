@@ -18,6 +18,7 @@ document.querySelector('#app').innerHTML = `
     <p class="read-the-docs">
       * primer cambio para rama staging
       * rama de prueba
+      * union de ramas
     </p>
   </div>
 `
