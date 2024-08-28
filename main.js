@@ -16,9 +16,13 @@ document.querySelector('#app').innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
+<<<<<<< HEAD
       * primer cambio para rama staging
       * rama de prueba
       * union de ramas
+=======
+      Click on the Vite logo to learn more
+>>>>>>> parent of 7f2000a (creando rama staging)
     </p>
   </div>
 `
